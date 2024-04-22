@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Jaeil's%20Github&fontSize=90&fontColor=000000)
 
-<div style="text-align: center">
+<div align="center">
     <div>
         <h3>Tech Stack</h3>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
