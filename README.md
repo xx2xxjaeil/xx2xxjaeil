@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Jaeil's%20Github&fontSize=90&fontColor=000000)
 
-<div style="width: 100%; text-align: center">
+<div style="text-align: center">
     <div>
         <h3>Tech Stack</h3>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-<div style="text-align: center">
+<div>
     <h3>Experience</h3>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=Elastic&logoColor=white"/>
@@ -29,7 +29,7 @@
 
 <br/>
 
-  <div style="text-align: center">
+  <div>
         <h3>Tools</h3>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
