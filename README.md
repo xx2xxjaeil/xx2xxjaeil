@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Jaeil's%20Github&fontSize=90)
-
-
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Jaeil's%20Github&fontSize=90&fontColor=000000)
 
 <div style="text-align: center">
     <h3>Tech Stack</h3>
