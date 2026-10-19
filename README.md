@@ -16,11 +16,11 @@ IntentPatch is an open-source CLI and GitHub Action that analyzes a Git diff for
   <img src="https://github-readme-stats.vercel.app/api?username=xx2xxjaeil&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="Jaeil's GitHub stats" height="170" />
 </a>
 
-## AI Usage
+## ⚡ AI Coding
 
-<img src="./assets/ai-usage.svg" alt="Claude Code and Codex activity from local logs over the last 30 days" width="100%" />
+<img src="./assets/ai-usage.svg" alt="Locally recorded Claude Code and Codex token usage, estimated API-equivalent cost, token mix, and activity" width="100%" />
 
-<sub>Local Claude Code and Codex logs only · rolling 30 days · input/output token counts exclude cache · not an account quota or productivity score. [How this card is generated](./docs/ai-usage.md)</sub>
+<sub>Available local logs only · API-equivalent cost is an estimate, not an actual bill or account-wide quota. [How this card is generated](./docs/ai-usage.md)</sub>
 
 ## Tech I use
 
