@@ -1,80 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="264" viewBox="0 0 860 264" role="img" aria-labelledby="title description">
-  <title id="title">AI Coding Activity</title>
-  <desc id="description">Claude Code and Codex activity from local logs for 2026-09-20 through 2026-10-19. Counts exclude prompts, paths, and project names.</desc>
-  <rect x="0.5" y="0.5" width="859" height="263" rx="15" fill="#0d1117" stroke="#30363d" />
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="298" viewBox="0 0 860 298" role="img" aria-labelledby="title description">
+  <title id="title">AI Usage from locally recorded Claude Code and Codex sessions</title>
+  <desc id="description">Recorded local logs since 2025-08-08  ·  ECB FX 2026-10-16  ·  Not actual charges. API-equivalent cost is estimated from available local logs.</desc>
+  <rect x="0.5" y="0.5" width="859" height="297" rx="12" fill="#050505" stroke="#30363d" />
   <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-  <text x="24" y="32" fill="#e6edf3" font-size="18" font-weight="700">AI Coding Activity</text>
-  <text x="689" y="31" fill="#8b949e" font-size="12">LAST 30 DAYS</text>
-  <rect x="24" y="54" width="394" height="94" rx="10" fill="#161b22" stroke="#30363d" />
-  <text x="42" y="80" fill="#e6edf3" font-size="15" font-weight="700">Claude Code</text>
-  <text x="42" y="111" fill="#e6edf3" font-size="26" font-weight="700">No local data</text>
-  <text x="42" y="134" fill="#8b949e" font-size="12">in this 30-day window</text>
-  <rect x="442" y="54" width="394" height="94" rx="10" fill="#161b22" stroke="#30363d" />
-  <text x="460" y="80" fill="#e6edf3" font-size="15" font-weight="700">Codex</text>
-  <text x="460" y="111" fill="#e6edf3" font-size="26" font-weight="700">18<tspan fill="#8b949e" font-size="13" font-weight="400"> active days / 30</tspan></text>
-  <text x="460" y="134" fill="#8b949e" font-size="12">38.3M input  ·  2.9M output tokens</text>
-  <text x="24" y="189" fill="#c9d1d9" font-size="13">Claude Code</text>
-  <rect x="166" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="188" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="210" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="232" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="254" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="276" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="298" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="320" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="342" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="364" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="386" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="408" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="430" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="452" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="474" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="496" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="518" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="540" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="562" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="584" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="606" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="628" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="650" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="672" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="694" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="716" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="738" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="760" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="782" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="804" y="175" width="16" height="16" rx="3" fill="#21262d" />
-  <text x="24" y="219" fill="#c9d1d9" font-size="13">Codex</text>
-  <rect x="166" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="188" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="210" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="232" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="254" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="276" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="298" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="320" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="342" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="364" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="386" y="205" width="16" height="16" rx="3" fill="#388fce" />
-  <rect x="408" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="430" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="452" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="474" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="496" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="518" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="540" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="562" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="584" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="606" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="628" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="650" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="672" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="694" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="716" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="738" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="760" y="205" width="16" height="16" rx="3" fill="#21262d" />
-  <rect x="782" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <rect x="804" y="205" width="16" height="16" rx="3" fill="#72bdf0" />
-  <text x="24" y="249" fill="#8b949e" font-size="11">Local logs only · Updated 2026-10-19 KST · Not an account quota or productivity score</text>
+  <path d="M37 18 25 37h10l-4 15 16-22H36l5-12Z" fill="#facc15" />
+  <text x="57" y="40" fill="#3ee084" font-size="24" font-weight="700">AI Usage</text>
+  <text x="832" y="29" text-anchor="end" fill="#a3a3a3" font-size="15" font-weight="600">@xx2xxjaeil</text>
+  <text x="832" y="47" text-anchor="end" fill="#757575" font-size="12">API-equivalent · 2026-10-19</text>
+  <path d="M222 78v132 M435 78v132 M645 78v132" stroke="#2b2b2b" />
+  <text x="28" y="84" fill="#777" font-size="12" letter-spacing="2">LOCAL HISTORY</text>
+  <text x="241" y="84" fill="#777" font-size="12" letter-spacing="2">EST. COST</text>
+  <text x="454" y="84" fill="#777" font-size="12" letter-spacing="2">TOKEN MIX</text>
+  <text x="664" y="84" fill="#777" font-size="12" letter-spacing="2">ACTIVITY</text>
+  <text x="28" y="159" fill="#3ee084" font-size="52" font-weight="700">8B</text>
+  <text x="28" y="190" fill="#aaa" font-size="13">tokens · 94.4% cache-read share</text>
+  <text x="241" y="117" fill="#a3a3a3" font-size="15">USD</text>
+  <text x="417" y="117" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">$4,470</text>
+  <text x="241" y="143" fill="#a3a3a3" font-size="15">KRW</text>
+  <text x="417" y="143" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">₩5,954,396</text>
+  <text x="241" y="169" fill="#a3a3a3" font-size="15">EUR</text>
+  <text x="417" y="169" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">€3,972</text>
+  <text x="241" y="195" fill="#a3a3a3" font-size="15">CNY</text>
+  <text x="417" y="195" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">¥29,887</text>
+  <text x="454" y="117" fill="#a3a3a3" font-size="15">Output</text>
+  <text x="627" y="117" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">25M</text>
+  <text x="454" y="143" fill="#a3a3a3" font-size="15">Input</text>
+  <text x="627" y="143" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">428.9M</text>
+  <text x="454" y="169" fill="#a3a3a3" font-size="15">Cache read</text>
+  <text x="627" y="169" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">7.6B</text>
+  <text x="454" y="195" fill="#a3a3a3" font-size="15">Cache write</text>
+  <text x="627" y="195" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">124.6K</text>
+  <text x="664" y="117" fill="#a3a3a3" font-size="15">Active days</text>
+  <text x="833" y="117" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">200</text>
+  <text x="664" y="143" fill="#a3a3a3" font-size="15">Avg / day</text>
+  <text x="833" y="143" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">$22</text>
+  <text x="664" y="169" fill="#a3a3a3" font-size="15">Peak day</text>
+  <text x="833" y="169" text-anchor="end" fill="#3ee084" font-size="16" font-weight="600">$294</text>
+  <text x="664" y="195" fill="#a3a3a3" font-size="15">Top model</text>
+  <text x="833" y="195" text-anchor="end" fill="#3ee084" font-size="12" font-weight="600">gpt-5.6-terra</text>
+  <path d="M28 225h804" stroke="#2b2b2b" />
+  <text x="28" y="251" fill="#777" font-size="12" letter-spacing="2">BY TOOL</text>
+  <text x="140" y="251" fill="#d1d5db" font-size="14">Claude Code $2.61 (0.1%)  ·  Codex $4,467.33 (99.9%)</text>
+  <text x="28" y="282" fill="#737373" font-size="11">Recorded local logs since 2025-08-08  ·  ECB FX 2026-10-16  ·  Not actual charges</text>
   </g>
 </svg>
