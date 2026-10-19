@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="205" viewBox="0 0 560 205" role="img" aria-labelledby="title description">
+  <title id="title">GitHub Stats for @xx2xxjaeil</title>
+  <desc id="description">Last 365 days: 233 contributions, 208 commits, 17 pull requests. 20 private and 6 public repositories owned.</desc>
+  <rect x="0.5" y="0.5" width="559" height="204" rx="12" fill="#0d1117" stroke="#30363d" />
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="24" y="36" fill="#3ee084" font-size="20" font-weight="700">GitHub Stats</text>
+    <text x="536" y="34" text-anchor="end" fill="#8b949e" font-size="13">@xx2xxjaeil</text>
+    <path d="M249 58v119" stroke="#30363d" />
+    <text x="24" y="76" fill="#8b949e" font-size="11" letter-spacing="1.5">LAST 365 DAYS</text>
+    <text x="24" y="133" fill="#3ee084" font-size="47" font-weight="700">233</text>
+    <text x="24" y="154" fill="#c9d1d9" font-size="13">contributions</text>
+    <text x="273" y="80" fill="#8b949e" font-size="12">Commits</text>
+    <text x="273" y="105" fill="#e6edf3" font-size="20" font-weight="600">208</text>
+    <text x="410" y="80" fill="#8b949e" font-size="12">Pull requests</text>
+    <text x="410" y="105" fill="#e6edf3" font-size="20" font-weight="600">17</text>
+    <text x="273" y="135" fill="#8b949e" font-size="12">Private repos</text>
+    <text x="273" y="160" fill="#3ee084" font-size="20" font-weight="600">20</text>
+    <text x="410" y="135" fill="#8b949e" font-size="12">Public repos</text>
+    <text x="410" y="160" fill="#e6edf3" font-size="20" font-weight="600">6</text>
+    <text x="24" y="190" fill="#6e7681" font-size="11">Includes accessible private activity · Updated 2026-10-19</text>
+  </g>
+</svg>

@@ -13,7 +13,7 @@ IntentPatch is an open-source CLI and GitHub Action that analyzes a Git diff for
 ## GitHub Stats
 
 <a href="https://github.com/xx2xxjaeil">
-  <img src="https://github-readme-stats.vercel.app/api?username=xx2xxjaeil&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" alt="Jaeil's GitHub stats" height="170" />
+  <img src="./assets/github-stats.svg" alt="Jaeil's GitHub stats" height="170" />
 </a>
 
 ## ⚡ AI Coding
