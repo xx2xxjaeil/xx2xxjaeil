@@ -18,6 +18,10 @@ jobs:
     environment: PRIVATE_STATS_TOKEN
     steps:
       - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+          package-manager-cache: false
 
       - name: Check private stats token
         id: token
@@ -33,14 +37,9 @@ jobs:
 
       - name: Generate stats card
         if: steps.token.outputs.configured == 'true'
-        uses: stats-organization/github-readme-stats-action@96a939a7398a290e0a9f84b2b31d21d0cf67d483 # v2
-        with:
-          card: stats
-          options: 'username=xx2xxjaeil&show_icons=true&hide_border=true&theme=github_dark'
-          path: assets/github-stats.svg
-          token: ${{ secrets.PRIVATE_STATS_TOKEN }}
-          core_version: 2.1.3
-          fail_on_error: true
+        env:
+          GITHUB_STATS_TOKEN: ${{ secrets.PRIVATE_STATS_TOKEN }}
+        run: node scripts/generate-github-stats.mjs
 
       - name: Activate generated card in README
         if: steps.token.outputs.configured == 'true'
