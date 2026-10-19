@@ -12,9 +12,8 @@ IntentPatch is an open-source CLI and GitHub Action that analyzes a Git diff for
 
 ## GitHub Stats
 
-<a href="https://github.com/xx2xxjaeil">
-  <img src="./assets/github-stats.svg" alt="Jaeil's GitHub stats" height="170" />
-</a>
+| <a href="https://github.com/xx2xxjaeil"><img align="center" src="./assets/github-stats.svg" alt="Jaeil's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xx2xxjaeil&layout=compact&theme=buefy&hide_border=true" alt="Jaeil's most used languages" /></a> |
+| --- | --- |
 
 ## ⚡ AI Coding
 
