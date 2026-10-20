@@ -22,4 +22,4 @@
 
 IntentPatch is an open-source CLI and GitHub Action that analyzes a Git diff for changes outside the expected scope, possible duplication, dependency changes, and downstream impact. Its core analysis works without an AI API key.
 
-[Source code](https://github.com/xx2xxjaeil/intent-patch) · [npm package](https://www.npmjs.com/package/intentpatch) · [Real-world evaluation](https://github.com/xx2xxjaeil/intent-patch/blob/main/docs/real-world-evaluation.md)
+[Source code](https://github.com/xx2xxjaeil/intent-patch) · [npm package](https://www.npmjs.com/package/intentpatch) · [Self-repo case study](https://github.com/xx2xxjaeil/intent-patch/blob/main/docs/real-world-evaluation.md) · [External evaluation](https://github.com/xx2xxjaeil/intent-patch/blob/main/docs/external-repository-evaluation.md)
